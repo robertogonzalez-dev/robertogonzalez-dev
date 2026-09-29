@@ -1,10 +1,10 @@
 ## Hi, I'm Roberto 👋
 
-**Data Engineer** · Engineer at Venanpri Group · 🟢 Open to data engineering roles
+**Senior Integration Engineer** at Corona Tools (Venanpri Group) · 🟢 Open to integration and data engineering roles
 
-I build data platforms end to end: ingestion pipelines, dbt-modeled warehouses, the APIs and dashboards that serve them, and the tooling and infrastructure that keep them reliable.
+I connect business systems: IBM i/AS400 ERP, SQL Server, APIs and cloud services, using ETL, Python, SQL and automation. On my own time I build data platforms, forecasting models and cloud infrastructure end to end.
 
-💼 [LinkedIn](https://www.linkedin.com/in/robertogonzalezdev) · 📫 [djbeto2209@gmail.com](mailto:djbeto2209@gmail.com)
+🌐 [Portfolio & resume](https://robertogonzalez-dev.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/robertogonzalezdev) · 📫 [Roberto.Gonzalez2209@gmail.com](mailto:Roberto.Gonzalez2209@gmail.com)
 
 ---
 
@@ -30,6 +30,7 @@ I build data platforms end to end: ingestion pipelines, dbt-modeled warehouses, 
 
 ### Tech I work with
 
-- **Data:** Python · SQL · dbt · DuckDB · PostgreSQL · pandas · LightGBM
+- **Integration & ERP:** IBM i / AS400 · BPCS ERP · IBM DB2 · REST APIs · SSIS · SFTP · RPA
+- **Data:** Python · SQL / T-SQL · SQL Server · PostgreSQL · dbt · DuckDB · Power BI · pandas · LightGBM
 - **Backend & apps:** FastAPI · SQLAlchemy · Streamlit · React · TypeScript
-- **Infrastructure:** Docker · Terraform · AWS (ECS, ECR, S3, IAM) · GitHub Actions
+- **Cloud & DevOps:** Azure · AWS (ECS, ECR, S3, IAM) · Docker · Terraform · GitHub Actions
